@@ -1,0 +1,7 @@
+loguru==0.7.2
+SQLAlchemy==2.0.41
+pandas==1.5.3
+numpy==1.26.0
+pydantic-settings==2.8.1
+psycopg2-binary==2.9.10
+typer==0.12.4
